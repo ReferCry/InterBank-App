@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btn_inicio"
+        android:title="Inicio"
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/btn_oper"
+        android:title="Operaciones"
+        android:icon="@drawable/ic_pay" />
+    <item
+        android:id="@+id/btn_finanzas"
+        android:title="Mis Finanzas"
+        android:icon="@drawable/ic_chart" />
+</menu>
